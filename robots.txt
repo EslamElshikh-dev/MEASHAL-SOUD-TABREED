@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://meshalelanzi-tabreed.com/sitemap.xml
